@@ -1,13 +1,21 @@
 # webptt_crawler
 
 1. Running Environment: 
+
 	Editor: Sublime Text
+
 	Python version: 2.7.x
+	
 	OS: Windows 7
+	
 	Need-to-import packages:
+		
 		bs4 (beautifulsoup)
+		
 		lxml
+		
 		mechanize
+		
 		glob
 
 
