@@ -13,7 +13,7 @@
 
 2. Single board crawling (with customized start page, endless checking latest posts and crawling)
 
-	$python crawler_auto.py [Boardname (case sensitive)] [Start page number]
+		$python crawler_auto.py [Boardname (case sensitive)] [Start page number]
 
 
 3. Multiple boards crawling
@@ -23,7 +23,7 @@
 	Modify "boardlist.txt" using Sublime Text (to avoid newline problem caused by Notepad), with each board separated by a newline ('\n' in C language, an "Enter" in editors)
 	then,
 
-	$python crawler_multi.py
+		$python crawler_multi.py
 
 
 4. To parse data
